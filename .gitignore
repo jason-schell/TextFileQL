@@ -70,7 +70,6 @@ Carthage/Build/
 
 # Accidental build artifacts
 *.app
-*.xcodeproj
 
 # macOS
 .DS_Store
